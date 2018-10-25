@@ -14,4 +14,8 @@ public class TestHomePage extends HomePage {
     public void testHome(){
         clickOnStatusServicesComponents();
     }
+    @Test
+    public void testBus(){
+        clickOnBus();
+    }
 }
