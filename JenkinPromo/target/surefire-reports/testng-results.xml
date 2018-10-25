@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report DirectoryE:\InterviewPrac\JenkinPromo\target\surefire-reports\html]]>
+    </line>
+    <line>
+      <![CDATA[TestHomePage: click On Status Services Components]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9549" started-at="2018-10-25T21:13:37Z" finished-at="2018-10-25T21:13:47Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9549" started-at="2018-10-25T21:13:37Z" finished-at="2018-10-25T21:13:47Z">
+      <class name="testHomePage.TestHomePage">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="extentSetup" is-config="true" duration-ms="242" started-at="2018-10-25T21:13:37Z" finished-at="2018-10-25T21:13:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@41dd05a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report DirectoryE:\InterviewPrac\JenkinPromo\target\surefire-reports\html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="setUp" is-config="true" duration-ms="8423" started-at="2018-10-25T21:13:37Z" finished-at="2018-10-25T21:13:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.mta.info]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="startExtent" is-config="true" duration-ms="6" started-at="2018-10-25T21:13:46Z" finished-at="2018-10-25T21:13:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testHomePage.TestHomePage.testHome()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="init" is-config="true" duration-ms="6" started-at="2018-10-25T21:13:46Z" finished-at="2018-10-25T21:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testHome()[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="testHome" duration-ms="92" started-at="2018-10-25T21:13:46Z" finished-at="2018-10-25T21:13:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestHomePage: click On Status Services Components]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="afterEachTestMethod" is-config="true" duration-ms="1001" started-at="2018-10-25T21:13:46Z" finished-at="2018-10-25T21:13:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHome status=SUCCESS method=TestHomePage.testHome()[pri:0, instance:testHomePage.TestHomePage@27efef64] output=TestHomePage: click On Status Services Components]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="cleanUp" is-config="true" duration-ms="0" started-at="2018-10-25T21:13:47Z" finished-at="2018-10-25T21:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:testHomePage.TestHomePage@27efef64]" name="generateReport" is-config="true" duration-ms="56" started-at="2018-10-25T21:13:47Z" finished-at="2018-10-25T21:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- testHomePage.TestHomePage -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
